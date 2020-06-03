@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="159dp"
         android:layout_height="53dp"
-        android:text="yougotit!"
+        android:text="you got it!"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
